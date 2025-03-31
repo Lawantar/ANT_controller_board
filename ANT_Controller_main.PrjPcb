@@ -100,9 +100,151 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBCYEGMM
 
+[Document4]
+DocumentPath=ANT_Controller_main.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\..\..\..\Lawantar\Downloads\output_generate_settings_4layers.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for ANT_Controller_main\NC Drill\ANT_Controller_main.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GM
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GM
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for ANT_Controller_main\Gerber\ANT_Controller_main.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for ANT_Controller_main\NC Drill\ANT_Controller_main.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for ANT_Controller_main\NC Drill\ANT_Controller_main.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_main.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for ANT_Controller_main\Design Rule Check - PCB1.html
 DItemRevisionGUID=
+
+[Parameter1]
+Name=GlobalprojectVersion
+Value=Rev 1.0
+
+[Parameter2]
+Name=GlobalProjectName
+Value=ant_controller
 
 [Configuration1]
 Name=Sources
@@ -1037,6 +1179,14 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=PA1|NetColor=clYellow
+Net2=NetName=PA11|NetColor=clYellow
+Net3=NetName=PA12|NetColor=clYellow
+Net4=NetName=PA5|NetColor=clYellow
+Net5=NetName=PA6|NetColor=clYellow
+Net6=NetName=PA7|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
